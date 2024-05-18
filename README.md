@@ -1,6 +1,4 @@
-<img src="https://github.com/JeroldGomez/Flutter-Fusion-App/assets/106787297/8717ee42-086c-4cde-a220-b3497b836732" width="100">    
-
-# Fusion    
+# Fusion <img src="https://github.com/JeroldGomez/Flutter-Fusion-App/assets/106787297/8717ee42-086c-4cde-a220-b3497b836732" width="37"/>
 
 Welcome to **Fusion** 👋🏻 a comprehensive collection of activities integrated into a single Flutter application. This project was developed as a final term assignment for our course, showcasing our ability to collaborate and incorporate various Flutter projects from GitHub into our own application.
 
@@ -22,13 +20,11 @@ Welcome to **Fusion** 👋🏻 a comprehensive collection of activities integrat
 
 <img src="https://github.com/JeroldGomez/Flutter-Fusion-App/assets/106787297/e5405d31-57db-49d8-810d-657293eba550" width="200"><img src="https://github.com/JeroldGomez/Flutter-Fusion-App/assets/106787297/aa8841e6-d9cc-4ce3-902e-71993b0a32dc" width="200"><img src="https://github.com/JeroldGomez/Flutter-Fusion-App/assets/106787297/fbd1cc92-f343-4846-986f-89574f020154" width="200"><img src="https://github.com/JeroldGomez/Flutter-Fusion-App/assets/106787297/423e5f74-1f21-4390-88e7-15cf815c260e" width="200"><img src="https://github.com/JeroldGomez/Flutter-Fusion-App/assets/106787297/74475edf-f3c2-49ca-852a-9d9d2aff9ea2" width="200"><img src="https://github.com/JeroldGomez/Flutter-Fusion-App/assets/106787297/9ec17891-856a-42bf-b2f2-60135d8cff6b" width="200"><img src="https://github.com/JeroldGomez/Flutter-Fusion-App/assets/106787297/5111b1ca-aa0f-42e7-9483-4ba358718e37" width="200"><img src="https://github.com/JeroldGomez/Flutter-Fusion-App/assets/106787297/356dd49e-6b24-4c15-8ddc-7bdcb7e079b4" width="200">
 
-
-
 ## Integrated Projects
 
 ### From Our Activities
 
-1. **Color Game:** A simple betting game where users select colors to bet, roll the dice, and view outcomes. The interface displays chosen colors, available capital, and allows interactive betting actions.
+1. **Color Game:** A simple betting game where users select colors to bet, roll the dice, and view outcomes. The interface displays chosen colors, and available capital, and allows interactive betting actions.
 2. **Xylophone:** A xylophone player using the 'audioplayers' package to produce distinct musical notes upon button press, with unique colors representing each xylophone key.
 3. **Heart List:** Utilizes the english_words package to create and manage pairs of English words. Users can save their favorite names by tapping a heart icon next to each suggestion, with saved suggestions displayed on a separate page.
 4. **3D Profile:** A basic 3D profile UI in Flutter, consisting of an AppBar with a customized title and a body section structured with nested Containers to create a 3D layered effect.
