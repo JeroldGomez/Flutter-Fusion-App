@@ -1,4 +1,6 @@
-# Fusion    <img src="https://github.com/JeroldGomez/Flutter-Fusion-App/assets/106787297/8717ee42-086c-4cde-a220-b3497b836732" width="27">    
+<img src="https://github.com/JeroldGomez/Flutter-Fusion-App/assets/106787297/8717ee42-086c-4cde-a220-b3497b836732" width="100">    
+
+# Fusion    
 
 Welcome to **Fusion** 👋🏻 a comprehensive collection of activities integrated into a single Flutter application. This project was developed as a final term assignment for our course, showcasing our ability to collaborate and incorporate various Flutter projects from GitHub into our own application.
 
