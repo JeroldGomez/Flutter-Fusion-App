@@ -1,0 +1,97 @@
+name: midterm_practical
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  font_awesome_flutter: ^9.2.0
+  google_fonts: ^4.0.4
+  responsive_framework: ^0.1.7
+  responsive_sizer: ^3.0.5+1
+  provider: ^6.0.2
+  clay_containers: ^0.3.2
+  day_night_switcher: ^0.2.0+1
+  rive: ^0.8.1
+  audioplayers: ^0.20.1
+  cupertino_icons: ^1.0.2 
+  english_words: ^4.0.0
+  math_expressions: ^2.0.0
+  flutter_localizations:
+    sdk: flutter
+  overlay_support: ^1.2.1
+  soundpool: ^2.3.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.2
+  flutter_launcher_icons: "^0.13.1"
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: "AppIcon"
+  image_path: "assets/images/icons/androidlogo.png"
+  min_sdk_android: 21 
+
+
+
+flutter:
+  uses-material-design: true
+  assets:
+   - assets/images/
+   - assets/images/icons/
+   - assets/animation/
+   - assets/sounds/note1.wav
+   - assets/sounds/note2.wav
+   - assets/sounds/note3.wav
+   - assets/sounds/note4.wav
+   - assets/sounds/note5.wav
+   - assets/sounds/note6.wav
+   - assets/sounds/note7.wav
+   - assets/audios/
+  fonts:
+    - family: Debug
+      fonts:
+        - asset: assets/fonts/debug.otf
+    - family: Dilo
+      fonts:
+        - asset: assets/fonts/dilo.ttf
+    - family: Vina Sans
+      fonts:
+        - asset: assets/fonts/VinaSans-Regular.ttf
+    - family: Lilita One
+      fonts:
+        - asset: assets/fonts/LilitaOne-Regular.ttf
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+    - family: PoppinsBold
+      fonts:
+        - asset: assets/fonts/Poppins-Bold.ttf
+    - family: PoppinsSemiBold
+      fonts:
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+    - family: Indie Flower
+      fonts:
+        - asset: assets/fonts/IndieFlower-Regular.ttf
+    - family: Montserrat
+      fonts:
+        - asset: assets/fonts/Montserrat-Regular.ttf
+    - family: Blox Brk
+      fonts:
+        - asset: assets/fonts/BloxBrk-M7Ke.ttf
+    - family: Gochi Hand
+      fonts:
+        - asset: assets/fonts/GochiHand-Regular.ttf
+    - family: Press Start 2P
+      fonts:
+        - asset: assets/fonts/PressStart2P-Regular.ttf
+    - family: Pacifico
+      fonts:
+        - asset: assets/fonts/Pacifico-Regular.ttf
